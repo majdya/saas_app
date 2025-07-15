@@ -2,7 +2,7 @@ import React from 'react'
 
 const Profile = () => {
     return (
-        <div>My Journy</div>
+        <div>My journey</div>
     )
 }
 export default Profile
