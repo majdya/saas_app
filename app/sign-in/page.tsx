@@ -1,7 +1,8 @@
-const Page: () => JSX.Element = () => {
+import React from 'react'
+
+const Page = () => {
     return (
-        <div>Sign in</div>
+        <div>Page</div>
     )
 }
-
 export default Page

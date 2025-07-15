@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Page = () => {
+const Profile = () => {
     return (
         <div>My Journy</div>
     )
 }
-export default Page
+export default Profile
